@@ -25,8 +25,6 @@ Breakdown of votes can be seen below:
 	- Winning Vote Count: **272,892**
 	- Winning Percentage: **73.8%**
 
-![election_results_txt](election_results_txt.png)
-
 ![alt text](https://github.com/brivasbravo/Election_Analysis/blob/main/Resources/election_results_txt.png)
 
 ## Election-Audit Summary
@@ -37,13 +35,9 @@ Breakdown of votes can be seen below:
 The code created for this particular election is effective with helping analyze any election data set with minor tweaks.
 The script itself can be applied to other data sets by simply switching the source of the data as seen below:
 
-![election_datasource](election_datasource.png)
-
 ![alt text](https://github.com/brivasbravo/Election_Analysis/blob/main/Resources/election_datasource.png)
 
 Script can also be adjusted from the county level to pull info instead at the city or state level as well. When data is recorded the second
 column would instead be at the city or state level. See header below:
-
-![election_header](election_header.png)
 
 ![alt text](https://github.com/brivasbravo/Election_Analysis/blob/main/Resources/election_header.png)
