@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election_Analysis Module 3
 
 ## Project Overview
 
@@ -27,6 +27,8 @@ Breakdown of votes can be seen below:
 
 ![election_results_txt](election_results_txt.png)
 
+![alt text](https://github.com/brivasbravo/Election_Analysis/blob/main/Resources/election_results_txt.png)
+
 ## Election-Audit Summary
  In a summary statement, provide a business proposal to the election commission on how this script can be
  used—with some modifications—for any election. Give at least two examples of how this script can be
@@ -37,9 +39,11 @@ The script itself can be applied to other data sets by simply switching the sour
 
 ![election_datasource](election_datasource.png)
 
+![alt text](https://github.com/brivasbravo/Election_Analysis/blob/main/Resources/election_datasource.png)
+
 Script can also be adjusted from the county level to pull info instead at the city or state level as well. When data is recorded the second
 column would instead be at the city or state level. See header below:
 
 ![election_header](election_header.png)
 
-
+![alt text](https://github.com/brivasbravo/Election_Analysis/blob/main/Resources/election_header.png)
