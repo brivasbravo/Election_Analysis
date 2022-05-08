@@ -25,7 +25,6 @@ Breakdown of votes can be seen below:
 	- Winning Vote Count: **272,892**
 	- Winning Percentage: **73.8%**
 
-ADD PICTURE TO SHOW RESULTS
 ![election_results_txt](election_results_txt.png)
 
 ## Election-Audit Summary
