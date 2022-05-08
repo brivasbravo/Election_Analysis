@@ -26,33 +26,21 @@ Breakdown of votes can be seen below:
 	- Winning Percentage: **73.8%**
 
 ADD PICTURE TO SHOW RESULTS
+![election_results_txt](election_results_txt.png)
 
 ## Election-Audit Summary
  In a summary statement, provide a business proposal to the election commission on how this script can be
  used—with some modifications—for any election. Give at least two examples of how this script can be
  modified to be used for other elections.
 
-ADD PICTURE TO HELP ARGUMENT
+The code created for this particular election is effective with helping analyze any election data set with minor tweaks.
+The script itself can be applied to other data sets by simply switching the source of the data as seen below:
 
-## Resources
-- Data Source: Election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 1.38.1
+![election_datasource](election_datasource.png)
 
+Script can also be adjusted from the county level to pull info instead at the city or state level as well. When data is recorded the second
+column would instead be at the city or state level. See header below:
 
-
-USER BELOW
-## Election Audit Summary 
-
-The code developed to run this analysis is a great and efficient tool for the election commission to analyze data sets of big scales, like this audit, the code is extremely customizable and can be easily run to analyze any data set by making small adjustments. The script can be applied to any electoral tabular dataset simply by changing the source of the data on the code itself, as can be seen in the screenshot below. 
-
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/File%20for%20analysis.png "File for analysis")
-
-As can be seen in the following image, it's very easy to manipulate the script to be run for any sort of election, be it a congressional or even a federal election, as it was designed to pull the candidates from the dataset itself. On the second screenshot, it can also be referenced how the input for the county could be switched to a city, or even a state and the code can be easily modified to gather this data on its own as opposed to being manually entered shows how flexible and usable this code can be for the commission.
-
-**Candidate Field easily modifiable**
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidate%20Field.png "Candidate Field")
-
-**County can be switched to modify the target regions**
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Field.png "County Field")
+![election_header](election_header.png)
 
 
